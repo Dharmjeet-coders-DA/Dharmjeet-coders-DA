@@ -1,4 +1,4 @@
-Hi, I’m Dharmjeet 👋
+## Hi, I’m Dharmjeet 👋
 
 I’m a data science enthusiast with a strong foundation in Python, SQL, and data analysis. I enjoy working with data, building logical solutions, and turning raw information into clear insights.
 
