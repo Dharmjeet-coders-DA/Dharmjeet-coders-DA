@@ -14,3 +14,13 @@ I’m always curious to learn new technologies, improve my fundamentals, and bui
 📫 How to reach me: ...
 😄 Pronouns: ...
 ⚡ Fun fact: ... -->
+
+## 🌐 Socials
+
+[LinkedIn](https://linkedin.com/in/yourprofile)
+
+[Instagram](https://instagram.com/yourprofile)
+
+## ⚡ Fun Fact
+
+I love solving real-world problems using data.
