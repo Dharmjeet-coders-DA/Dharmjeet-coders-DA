@@ -51,7 +51,7 @@ I love solving real-world problems using data.
 - Analyzed hotel booking data to identify cancellation patterns and customer behavior.
 - Performed data cleaning, EDA, and visualization using Python, Pandas, and Seaborn.
 - Generated actionable insights to improve booking retention.
-- Repository: https://github.com/YourUsername/Online-Hotel-Booking-Analysis](https://github.com/Dharmjeet-coders-DA/Online-Hotel-Booking
+- Repository: https://github.com/Dharmjeet-coders-DA/Online-Hotel-Booking
 
 ### 🏏 IPL 2026 Data Analysis
 - Comprehensive analysis of IPL 2026 matches, teams, and player performance.
