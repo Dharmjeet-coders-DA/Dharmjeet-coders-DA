@@ -6,20 +6,22 @@ I have hands-on experience with databases, Excel, and visualization tools like P
 
 I’m always curious to learn new technologies, improve my fundamentals, and build projects that solve real-world problems.
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ... -->
+<ul>
+  <li>🔭 I'm currently working on Data Analytics Projects</li>
+  <li>🌱 I'm currently learning Machine Learning</li>
+  <li>👯 I'm looking to collaborate on Open Source Projects</li>
+  <li>🤔 I'm looking for help with Data Science</li>
+  <li>💬 Ask me about Python, SQL and Power BI</li>
+  <li>📫 How to reach me: yourmail@gmail.com</li>
+  <li>😄 Pronouns: He/Him</li>
+  <li>⚡ Fun fact: I love solving real-world problems using data.</li>
+</ul>
 
 ## 🌐 Socials
 
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
-[Instagram](https://instagram.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 
 ## ⚡ Fun Fact
 
