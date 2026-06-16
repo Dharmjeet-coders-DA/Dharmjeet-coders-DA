@@ -44,32 +44,60 @@ I love solving real-world problems using data.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 🚀 Featured Projects
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharmjeet-coders-DA&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🏨 Online Hotel Booking Analysis
+- Analyzed hotel booking data to identify cancellation patterns and customer behavior.
+- Performed data cleaning, EDA, and visualization using Python, Pandas, and Seaborn.
+- Generated actionable insights to improve booking retention.
+- Repository: https://github.com/YourUsername/Online-Hotel-Booking-Analysis
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmjeet-coders-DA&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🏏 IPL 2026 Data Analysis
+- Comprehensive analysis of IPL 2026 matches, teams, and player performance.
+- Created interactive visualizations to uncover trends and winning factors.
+- Utilized Python, Pandas, Matplotlib, and Plotly for analysis.
+- Repository: https://github.com/YourUsername/IPL-2026-Analysis
 
-</div>
+### 📱 PhonePe Transaction Analysis
+- Explored digital payment trends across states and districts in India.
+- Built interactive dashboards to analyze transaction volume and value.
+- Developed visual reports using Python and Power BI.
+- Repository: https://github.com/YourUsername/PhonePe-Analysis
 
----
+### 💹 Financial Data Analysis
+- Analyzed financial datasets to identify revenue trends and performance metrics.
+- Conducted data cleaning, KPI analysis, and business reporting.
+- Created insightful dashboards and visualizations using Power BI and Python.
+- Repository: https://github.com/YourUsername/Financial-Analysis
 
-## 🔥 GitHub Streak
+## 🏆 Key Expertise
 
-<div align="center">
+✔ Data Analysis  
+✔ Data Cleaning  
+✔ Data Visualization  
+✔ Dashboard Development  
+✔ Exploratory Data Analysis (EDA)  
+✔ SQL Query Optimization  
+✔ Business Intelligence (BI)  
+✔ Statistical Analysis  
+✔ Reporting & KPI Tracking  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmjeet-coders-DA&theme=tokyonight&hide_border=true"/>
+## 🏅 Achievements
 
-</div>
+🏆 Built 4+ Data Analytics Projects
 
----
+📊 Created Interactive Power BI Dashboards
 
-## 📈 Contribution Graph
+🐍 Performed Data Analysis using Python
 
-<div align="center">
+🗄️ Solved Business Problems using SQL
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmjeet-coders-DA&theme=tokyo-night"/>
+📈 Developed Insightful Visualizations using Plotly, Matplotlib & Seaborn
 
-</div>
+## 📜 Certifications
+
+🏅 Python (Basic) Certificate – HackerRank
+
+🔗 Certificate: https://www.hackerrank.com/certificates/iframe/f1dc0bd42468
+
