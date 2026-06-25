@@ -12,7 +12,7 @@ I’m always curious to learn new technologies, improve my fundamentals, and bui
   <li>👯 I'm looking to collaborate on Open Source Projects</li>
   <li>🤔 I'm looking for help with Data Science</li>
   <li>💬 Ask me about Python, SQL and Power BI</li>
-  <li>📫 How to reach me: yourmail@gmail.com</li>
+  <li>📫 How to reach me: dpn01999@gmail.com</li>
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: I love solving real-world problems using data.</li>
 </ul>
