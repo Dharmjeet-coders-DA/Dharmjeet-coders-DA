@@ -105,7 +105,7 @@ I love solving real-world problems using data.
 
 🔗 Certificate: https://github.com/Dharmjeet-coders-DA/Dharmjeet-AI-Skills-Passport/blob/main/Certificate%20AI%20Dharmjeet.pdf
 
-🏅 LLM For Young Developers - Foundational Course
+🏅 LLM For Young Developers - Togethe with meta & NASSCOM II-ITeS SSC & futureskills Prime with India AI
 
 🔗 Certificate: https://github.com/Dharmjeet-coders-DA/Future-Skills-Prime-together-with-meta/blob/main/Dharmjeet_Prajapati_575095.pdf
 
