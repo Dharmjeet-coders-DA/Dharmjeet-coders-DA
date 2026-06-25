@@ -102,6 +102,4 @@ I love solving real-world problems using data.
 🔗 Certificate: https://www.hackerrank.com/certificates/iframe/f1dc0bd42468
 
 ## 🏅 AI Skills Passport (Basic) Certificate – EY and Microsoft
-
-    Certificate: https://github.com/Dharmjeet-coders-DA/Dharmjeet-AI-Skills-Passport/blob/main/Certificate%20AI%20Dharmjeet.pdf
-
+🔗 Certificate: https://github.com/Dharmjeet-coders-DA/Dharmjeet-AI-Skills-Passport/blob/main/Certificate%20AI%20Dharmjeet.pdf
